@@ -9,10 +9,10 @@ This is the first and only *individual* (as opposed to *team*) project this seme
 
 Term: Spring 2022
 
-+ Projec title: Lorem ipsum dolor sit amet
++ Projec title: R Notebook Data Story
 + This project is conducted by Jiazheng Chen
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary: [a short summary] We became interested in the differences between schools in the history of philosophy. From a dataset that contains over 300,000 sentences from over 50 texts spanning 10 major schools of philosophy I want to talk a data story about the direct differences and relationships between these schools. The represented schools are: Plato, Aristotle, Rationalism, Empiricism, German Idealism, Communism, Capitalism, Phenomenology, Continental Philosophy, and Analytic Philosophy.
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
@@ -25,4 +25,6 @@ proj/
 └── output/
 ```
 
-Please see each subfolder for a README file.
+Please see each subfolder for a README file. As a special reminder, the RMD file is in the lib folder, and the final HEML report is in the doc folder.
+
+
